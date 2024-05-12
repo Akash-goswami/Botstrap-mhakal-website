@@ -1,0 +1,16 @@
+@media only screen and (max-width: 900px) {
+    .menu-list{
+        display: none;
+    }
+    .footer-border-color {
+        border: none !important;
+    }
+}
+@media only screen and (min-width: 900px) {
+    .ord1{
+        order: -2 !important;
+    }
+    .ord2{
+        order: -1;
+    }
+}
